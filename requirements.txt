@@ -1,1 +1,7 @@
 streamlit
+openai
+instructor
+pydantic
+python-dotenv
+ratelimit
+google-generativeai
